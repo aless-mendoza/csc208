@@ -1,10 +1,5 @@
 # Math Notations
 
-## Natural Number
-## Math
-| Operation | Command  |
-|-----------|----------|
-| $a+b$ | ```$a+b$```  |
 
 ## Symbols 
 
