@@ -1,5 +1,10 @@
 # Math Notations
 
+This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+`This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$`
+
+This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
+`This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$`
 
 ## Symbols 
 
@@ -19,14 +24,6 @@
 | INTERSECTION | `\$cap\$`        | $\cap$       |
 | VERTICAL BAR | `\$vert\$`       | $\vert$      |
 
-## Variables
-- If you have a variable after an operator than the $ comes after the letter
-
-| Variable | Command |
-|----------|---------|
-| $\0$     | '$\0$'   |
-| $P       | '$P'    |
-| Q$       | '$Q'    |
 
 
 
