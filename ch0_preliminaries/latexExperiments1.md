@@ -21,6 +21,7 @@ Alternatively, you can use the ` ```math` code block syntax to display a math ex
 
 | Meaning      | Command          | Output       |
 |--------------|------------------|--------------|
+| Addition     | `$a+b$`          | $a+b$        |
 | Square Root  | `$\sqrt{2}\$`    | $\sqrt{2}\$  |
 | Square       | `$a^2$`          | $a^2$        |
 | AND          | `\$land\$`       | $\land$      |
