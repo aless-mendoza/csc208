@@ -8,7 +8,7 @@
 ## Math
 | Operation | Command  |
 |-----------|----------|
-| $\a+b$     | $\\a+b$  |
+| $a+b$     | ```$a+b$```  |
 
 ## Symbols 
 
