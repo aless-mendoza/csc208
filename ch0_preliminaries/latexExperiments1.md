@@ -5,8 +5,6 @@
 
 | Meaning      | Command          | Output       |
 |--------------|------------------|--------------|
-| Square Root  | $\\\sqrt{2}$     | $\sqrt{2}$   |
-| Square       | $\\a^2$          | $a^2$        |
 | AND          | \$\\land\$       | $\land$      |
 | OR           | \$\\lor\$        | $\lor$       |
 | NOT          | \$\\lnot\$       | $\lnot$      |
