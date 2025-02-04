@@ -44,4 +44,4 @@ Alternatively, you can use the ` ```math` code block syntax to display a math ex
 |----------|-----------|
 | $0$      | `$0$`     |
 | $P$      | `$P$`     |
-
+| $Q$      | `$Q$`     |
