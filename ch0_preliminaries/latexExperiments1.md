@@ -15,12 +15,7 @@ This sentence uses $\` and \`$ delimiters to show math inline: $\sqrt{3x-1}+(1+x
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
 
-
-````math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-````
-
-
+Alternatively, you can use the ` ```math` code block syntax to display a math expression as a block. With this syntax, you don't need to use `$$` delimiters. The following will render the same as above:
 
 ## Symbols 
 
