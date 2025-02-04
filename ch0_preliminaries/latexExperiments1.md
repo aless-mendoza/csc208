@@ -5,19 +5,19 @@
 
 | Meaning      | Command          | Output       |
 |--------------|------------------|--------------|
-| AND          | \$\\land\$       | $\land$      |
-| OR           | \$\\lor\$        | $\lor$       |
-| NOT          | \$\\lnot\$       | $\lnot$      |
-| XOR          | \$\\oplus\$      | $\oplus$     |
-| THEREFORE    | \$\\therefore\$  | $\therefore$ |
-| IMPLIES      | \$\\implies\$    | $\implies$   |
-| IMPLIED BY   | \$\\impliedby\$  | $\impliedby$ |
-| IFF          | \$\\iff\$        | $\iff$       |
-| IN           | \$\\in\$         | $\in$        |
-| SQUARE ROOT  | \$\\sqrt{n}\$    | $\sqrt{n}$   |
-| UNION        | \$\\cup\$        | $\cup$       |
-| INTERSECTION | \$\\cap\$        | $\cap$       |
-| VERTICAL BAR | \$\\vert\$       | $\vert$      |
+| AND          | `\$land\$`       | $\land$      |
+| OR           | `\$lor\$`        | $\lor$       |
+| NOT          | `\$lnot\$`       | $\lnot$      |
+| XOR          | `\$oplus\$`      | $\oplus$     |
+| THEREFORE    | `\$therefore\$`  | $\therefore$ |
+| IMPLIES      | `\$implies\$`    | $\implies$   |
+| IMPLIED BY   | `\$impliedby\$`  | $\impliedby$ |
+| IFF          | `\$iff\$`        | $\iff$       |
+| IN           | `\$in\$`         | $\in$        |
+| SQUARE ROOT  | `\$sqrt{n}\$`    | $\sqrt{n}$   |
+| UNION        | `\$cup\$`        | $\cup$       |
+| INTERSECTION | `\$cap\$`        | $\cap$       |
+| VERTICAL BAR | `\$vert\$`       | $\vert$      |
 
 ## Variables
 - If you have a variable after an operator than the $ comes after the letter
