@@ -38,6 +38,10 @@ Alternatively, you can use the ` ```math` code block syntax to display a math ex
 | INTERSECTION | `\$cap\$`        | $\cap$       |
 | VERTICAL BAR | `\$vert\$`       | $\vert$      |
 
+## Variable
 
+| Variable | Command   |
+|----------|-----------|
+| $0$      | `$0$`     |
 
 
