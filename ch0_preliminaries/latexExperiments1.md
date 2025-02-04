@@ -1,10 +1,6 @@
 # Math Notations
 
 ## Natural Number
-```math
-\N
-\N_0
-```
 ## Math
 | Operation | Command  |
 |-----------|----------|
