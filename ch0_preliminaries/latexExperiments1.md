@@ -1,11 +1,15 @@
 # Math Notations
 
+## Natural Number
+```math
+\N
+\N_0
+```
+
 ## Symbols 
 
 | Meaning      | Command          | Output       |
 |--------------|------------------|--------------|
-| Natural Num  | $\\\N$           | $\N$         |
-| Curly Bracket| $\\\{$           | $\{$         |
 | Square Root  | $\\\sqrt{2}$     | $\sqrt{2}$   |
 | Square       | $\\a^2$          | $a^2$        |
 | AND          | \$\\land\$       | $\land$      |
