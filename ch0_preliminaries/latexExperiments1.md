@@ -5,6 +5,10 @@
 \N
 \N_0
 ```
+## Math
+| Operation | Command  |
+|-----------|----------|
+| $a+b$     | $\\a+b$  |
 
 ## Symbols 
 
