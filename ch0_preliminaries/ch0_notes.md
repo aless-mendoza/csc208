@@ -13,7 +13,7 @@
 ### Sets
 #### Definition
 * **Sets:** An unordered collection of elements
-* **Set Comprehension (or Set Builder Notation):** $A$ = {$x$ \$in\$ $N$ : $x$ < 10
+* **Set Comprehension (or Set Builder Notation):** $A$ = {x \$in$ $\N$ : $x$ < 10} which reads as 
 
 ---
 
