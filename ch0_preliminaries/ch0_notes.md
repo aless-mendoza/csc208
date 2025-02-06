@@ -28,7 +28,15 @@
 
 ### Sequences
 * **Sequences:** ordered sets
+* **Finite Sequences:** Ex. (1, 2, 3) is finite because there is a set amount of elements
+* **Infinite Sequences:** Have an undefined amount of elements
 
+
+### Relations
+* 
+
+### Graphs
+* 
 
 ---
 
