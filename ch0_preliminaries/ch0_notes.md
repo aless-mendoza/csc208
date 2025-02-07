@@ -28,13 +28,13 @@
 
 ### Sequences 
 * **Sequences:** An ordered list of elements where order matters. 
-* **Finite Sequence:** A sequence with a specific number of elements, e.g., \( (1, 2, 3) \). 
-* **Infinite Sequence:** A sequence that continues indefinitely, e.g., \( (4, 8, 12, \dots) \). 
-* **Tuple:** A finite sequence with \( n \) elements is called an \( n \)-tuple. 
-* **Difference from Sets:** Unlike sets, sequences care about order. The sequence \( (1,2,3) \) is different from \( (2,3,1) \), while the set \( \{1,2,3\} \) is the same as \( \{2,3,1\} \). 
-* **Function Representation:** A sequence can be thought of as a function \( f: \mathbb{N} \to X \), where the domain is a subset of natural numbers representing positions, and the codomain \( X \) is the set of possible elements. 
-* **Closed Formula:** A formula that explicitly defines each term, e.g., \[ a_n = \frac{n(n+1)}{2} \] defines the sequence of triangular numbers.
-* **Recursive Definition:** Defines each term based on previous terms, e.g., Fibonacci sequence: \[ f_n = f_{n-1} + f_{n-2}, \quad f_1 = 1, \quad f_2 = 1 \] 
+* **Finite Sequence:** A sequence with a specific number of elements, e.g., {1, 2, 3}. 
+* **Infinite Sequence:** A sequence that continues indefinitely, e.g., (4, 8, 12, $\dots$). 
+* **Tuple:** A finite sequence with $n$ elements is called an $n$-tuple. 
+* **Difference from Sets:** Unlike sets, sequences care about order. The sequence {1,2,3} is different from {2,3,1}, while the set {1,2,3} is the same as {2,3,1}. 
+* **Function Representation:** A sequence can be thought of as a function ( $f$: $\mathbb{N}$ \to $X$), where the domain is a subset of natural numbers representing positions, and the codomain ($X$) is the set of possible elements. 
+* **Closed Formula:** A formula that explicitly defines each term, e.g., [ $a_n$ = $\frac{n(n+1)}{2}$ ] defines the sequence of triangular numbers.
+* **Recursive Definition:** Defines each term based on previous terms, e.g., Fibonacci sequence: [ $f_n$ = $f_{n-1}$ + $f_{n-2}$, $\quad$ $f_1$ = 1, $\quad$ $f_2$ = 1 ] 
 
 
 ### Relations
