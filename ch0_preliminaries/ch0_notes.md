@@ -49,8 +49,21 @@
 * **Transitive:** If $aRb$ and $bRc$, then $aRc$ (e.g., "is an ancestor of"). 
 
 
-### Graphs
-* 
+### Graphs 
+* **Graphs:** A mathematical structure consisting of **vertices** (nodes) and **edges** (connections). 
+* **Graph Representation:** 
+* **Vertices Set**: $V$ is the set of nodes. 
+* **Edges Set**: $E$ is the set of connections, written as unordered pairs (a, b). 
+* **Undirected Graph:** If (a, b)  is in $E$, then (b, a) is also in $E$. 
+* **Directed Graph (Digraph):** Each edge has a direction, meaning (a, b) does not imply (b, a). 
+* **Examples:** 
+* **Friendship Graph:** Students are vertices, friendships are edges. 
+* **Geographical Graph:** Countries as vertices, shared borders as edges.
+ * **Flight Network:** Airports as vertices, direct flights as directed edges. 
+* **Graph Theory Applications:** 
+* Shortest path problems (e.g., GPS navigation). 
+* Network connections (e.g., internet routing). 
+* Social network analysis.
 
 ---
 
@@ -65,4 +78,10 @@
     * We will be covering **combinatorics**, **sequences**, **symbolic logic**, and **graph theory**
 
 * What are discrete structures? Which specific examples are listed in the chapter? Briefly describe each of these.
-
+    * **Discrete Structures** -> Mathematical objects that we use to represent parts of the problems we are solving
+    * Examples:
+        * **Sets:** An unordered collection of elements
+        * **Functions:** a rule that assigns each input exactly one output
+        * **Sequences:** An ordered list of elements where order matters.
+        * **Relations:** A way to describe relationships between elements of one or more sets.
+        * **Graphs:** A mathematical structure consisting of **vertices** (nodes) and **edges** (connections).
