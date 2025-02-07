@@ -41,29 +41,29 @@
 * **Binary Relation:** A relation between two elements, e.g., "less than" (<), "equal to" (=), or "divisibility" ($\mid$). 
 * **Ternary Relation:** A relation involving three elements, e.g., the **Pythagorean triple** relation (a, b, c) if ( $a^2$ + $b^2$ = $c^2$ ). 
 * **Set Representation:** A relation is a set of ordered pairs (or triples, etc.), e.g., the relation "less than" can be written as: [ $R$ = {(a, b) $\mid$ $a$ < $b$} ]
- * **Properties of Relations:** 
-* **Reflexive:**  $aRa$ for all $a$ (e.g., "is equal to").
- * **Irreflexive:** $aRa$ never holds (e.g., "is less than"). 
-* **Symmetric:** If $aRb$, then $bRa$ (e.g., "is a sibling of"). *
- **Antisymmetric:** If  $aRb$ and $bRa$, then $a$ = $b$ (e.g., "is less than or equal to"). 
-* **Transitive:** If $aRb$ and $bRc$, then $aRc$ (e.g., "is an ancestor of"). 
+* **Properties of Relations:** 
+    * **Reflexive:**  $aRa$ for all $a$ (e.g., "is equal to").
+    * **Irreflexive:** $aRa$ never holds (e.g., "is less than"). 
+    * **Symmetric:** If $aRb$, then $bRa$ (e.g., "is a sibling of").
+    * **Antisymmetric:** If  $aRb$ and $bRa$, then $a$ = $b$ (e.g., "is less than or equal to"). 
+    * **Transitive:** If $aRb$ and $bRc$, then $aRc$ (e.g., "is an ancestor of"). 
 
 
 ### Graphs 
 * **Graphs:** A mathematical structure consisting of **vertices** (nodes) and **edges** (connections). 
 * **Graph Representation:** 
-* **Vertices Set**: $V$ is the set of nodes. 
-* **Edges Set**: $E$ is the set of connections, written as unordered pairs (a, b). 
+    * **Vertices Set**: $V$ is the set of nodes. 
+    * **Edges Set**: $E$ is the set of connections, written as unordered pairs (a, b). 
 * **Undirected Graph:** If (a, b)  is in $E$, then (b, a) is also in $E$. 
 * **Directed Graph (Digraph):** Each edge has a direction, meaning (a, b) does not imply (b, a). 
 * **Examples:** 
-* **Friendship Graph:** Students are vertices, friendships are edges. 
-* **Geographical Graph:** Countries as vertices, shared borders as edges.
- * **Flight Network:** Airports as vertices, direct flights as directed edges. 
+    * **Friendship Graph:** Students are vertices, friendships are edges. 
+    * **Geographical Graph:** Countries as vertices, shared borders as edges.
+    * **Flight Network:** Airports as vertices, direct flights as directed edges. 
 * **Graph Theory Applications:** 
-* Shortest path problems (e.g., GPS navigation). 
-* Network connections (e.g., internet routing). 
-* Social network analysis.
+    * Shortest path problems (e.g., GPS navigation). 
+    * Network connections (e.g., internet routing). 
+    * Social network analysis.
 
 ---
 
